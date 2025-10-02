@@ -214,13 +214,6 @@ make -j$(nproc)
 - CUDA 开发社区的贡献者
 - 所有参与测试和反馈的用户
 
-## 📞 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- GitHub Issues: [项目Issues页面](https://github.com/your-username/nvidia-cccl-learning/issues)
-- Email: your-email@example.com
-
 ---
 
 ## 🚀 快速开始
